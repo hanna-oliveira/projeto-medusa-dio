@@ -108,7 +108,7 @@ Se qualquer usuário usar senha fraca repetida, o Medusa retorna SUCCESS.
 ✔ Monitoramento de logs e uso de IDS/IPS
 ✔ Firewall restringindo portas
 
- 8. Conclusões
+ 8. Conclusão
 
 Este projeto demonstrou como ataques de força bruta e password spraying podem comprometer sistemas vulneráveis com facilidade.
 Utilizando o Kali Linux e o Medusa, foi possível entender:
